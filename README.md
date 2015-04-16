@@ -9,4 +9,9 @@ The main topics of the blog are:
 * IT Security
 * Big Data
 * IT Tutorials
-* 
+
+Featured Articles:
+
+* https://slash4.de/blog/python/sed-replace-newline-or-python-awk-tr-perl-xargs.html
+* https://slash4.de/blog/howto/find-log-file-location-of-linux-process-with-lsof.html
+
